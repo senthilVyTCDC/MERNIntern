@@ -1,1 +1,2 @@
 Third file content
+The new content added
